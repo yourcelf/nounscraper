@@ -1,6 +1,9 @@
-Noun Project scraper
-====================
+Noun Project scraper (obsolete)
+===============================
 
+The noun project website has redesigned several times since this was written, and it will assuredly not work anymore.
+
+-----
 
 `The Noun Project <http://thenounproject.com>`_ is excellent, but the experience of downloading and using large numbers of icons from it is poor.  You download a zip file, which you then have to extract, and it has a random ID name rather than a meaningful noun name, and then associating the proper attribution with the icon is a pain.
 
